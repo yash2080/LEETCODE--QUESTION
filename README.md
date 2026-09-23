@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yash2080/LEETCODE--QUESTION/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/yash2080/LEETCODE--QUESTION/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/yash2080/LEETCODE--QUESTION/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/yash2080/LEETCODE--QUESTION/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
